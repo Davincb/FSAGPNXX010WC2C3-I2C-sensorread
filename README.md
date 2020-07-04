@@ -1,0 +1,1 @@
+# FSAGPNXX010WC2C3-I2C-sensorread
